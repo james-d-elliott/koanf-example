@@ -1,0 +1,7 @@
+values:
+  - example: "123"
+    extra: 1
+    enable: true
+  - example: "yes?"
+    extra: 2
+    enable: false
